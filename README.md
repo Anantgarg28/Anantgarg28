@@ -55,7 +55,7 @@
 > Full-stack board management app for onboarding and daily ops.  
 > Features: secure REST APIs, user approval flows, board CRUD, CSV export, Material UI dashboards.  
 
-### 🏕️ Camp India &nbsp; <img height="20" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,bootstrap"/>
+### 🏕️ Adventure India &nbsp; <img height="20" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,bootstrap"/>
 > Platform for discovering & reviewing campgrounds (100+), with rating-based advanced search.  
 > Secure authentication, user CRUD, genuine feedback system.  
 
