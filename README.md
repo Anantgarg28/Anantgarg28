@@ -59,6 +59,8 @@
 > Platform for discovering & reviewing campgrounds (100+), with rating-based advanced search.  
 > Secure authentication, user CRUD, genuine feedback system.  
 
+### 🌐 EntreCon & OBH Websites &nbsp; <img height="20" src="https://skillicons.dev/icons?i=html,css,js"/>
+- Built two modern, responsive company websites—[entreconglobal.org](https://entreconglobal.org) & [obhgroups.com](https://obhgroups.com)—from scratch using HTML, CSS, and JavaScript, increasing brand visibility by 30% and establishing each company's first digital presence with clean UI and user-friendly experience.
 ---
 
 ## 🔰 Positions of Responsibility
